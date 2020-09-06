@@ -18,3 +18,5 @@ Then go to league of legends client and set windows size to 1600 * 900
 Start Client
 
 1) After that just wait for the match to start
+
+#All Credits for Marius Lumbroso
